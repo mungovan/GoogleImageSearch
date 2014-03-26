@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrolling Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Enter search term</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="imagesize">Select Size</string>
+	<string name="select_size">Select Size</string>
+	<string name="save_settings">Save &amp; Close</string>	
+    <string name="select_colour">Select Colour</string>
+	<string name="select_type">Select Type</string>
+	<string name="preference_file_key">keyValues</string>
+    <string name="select_site">Select Site</string>
+    <string name="child_safety">Child Safety Mode</string>
+    <string name="on_off">On</string>
+    <string name="on_off_switch">Safety On</string>	
+    	
+     <string-array name="size_array">
+        <item>Select Size</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Xlarge</item>
+    </string-array>
+    
+	<string-array name="colour_array">
+	    <item>Select Color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Brown</item>
+    </string-array>
+	
+	<string-array name="imageType_array">
+	    <item>Select Type</item>
+        <item>Face</item>
+        <item>Photo</item>
+        <item>Clip Art</item>
+        <item>Line Art</item>
+    </string-array>
+        <string name="site_name">Enter Site Name</string>
+        <string name="reset_settings">Reset Settings</string>
+        <string name="white">#ffffff</string>
+
+    
+</resources>
